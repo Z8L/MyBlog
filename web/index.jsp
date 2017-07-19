@@ -17,13 +17,13 @@
   <link href='css/googleWebFonts.css' rel='stylesheet' type='text/css'>
   <link href='css/googleWebFonts47.css' rel='stylesheet' type='text/css'>
 
-  <!-- Bootstrap -->
+   <!-- Bootstrap -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
 
   <link rel="stylesheet" type="text/css" href="css/animate.css">
 
   <!-- font awesome-->
-  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href="css/font-awesome.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/skillset.css">
 
 
