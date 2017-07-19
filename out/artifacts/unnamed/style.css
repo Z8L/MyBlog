@@ -633,6 +633,7 @@ scroll {  0% {
 /* ===========Portfolio style===========*/
 
 .portfolio_area{
+  background-color: #f8f8f8;
   margin-top: 40px;
   margin-bottom: 40px;
 }
@@ -815,7 +816,7 @@ scroll {  0% {
 /*============== Skill style ==============*/
 
 .skill_area{
-  background-color: #f8f8f8;
+
 }
 
 
