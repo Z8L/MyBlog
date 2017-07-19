@@ -14,8 +14,8 @@
   <title>FIMPLY | One page HTML template</title>
 
   <!--Google web fonts-->
-  <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,300,300italic,400italic,600,700,600italic,200,200italic' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Play:400,700' rel='stylesheet' type='text/css'>
+  <link href='css/googleWebFonts.css' rel='stylesheet' type='text/css'>
+  <link href='css/googleWebFonts47.css' rel='stylesheet' type='text/css'>
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
