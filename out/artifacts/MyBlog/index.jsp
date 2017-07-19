@@ -72,14 +72,14 @@
   <!-- Overlay -->
   <div class="overlay"></div>
 
-  <!-- Indicators -->
+  <!-- Indicators(指标) -->
   <ol class="carousel-indicators">
     <li data-target="#bs-carousel" data-slide-to="0" class="active"></li>
     <li data-target="#bs-carousel" data-slide-to="1"></li>
     <li data-target="#bs-carousel" data-slide-to="2"></li>
   </ol>
 
-  <!-- Wrapper for slides -->
+  <!-- Wrapper for slides(幻灯片包装器) -->
   <div class="carousel-inner">
     <div class="item slides active">
       <div class="slide-1"></div>
@@ -159,51 +159,6 @@
   </div>
 </div><!-- service area end   -->
 
-<div class="work_area">
-  <div class="container">
-    <div class="row">
-      <div class="work_section">
-        <h1 class="wow bounceInLeft">Functional <span>work Process</span></h1>
-        <div class="col-md-12 wow bounceInRight animated">
-          <div class="bs-example">
-            <ul class="nav nav-tabs">
-              <li class="active"><a data-toggle="tab" href="#sectionA"><i class="fa fa-lightbulb-o"></i></a></li>
-              <li><a data-toggle="tab" href="#sectionB"><i class="fa fa-compass"></i></a></li>
-              <li><a data-toggle="tab" href="#sectionC"><i class="fa fa-cogs"></i></a></li>
-              <li><a data-toggle="tab" href="#sectionD"><i class="fa fa-paper-plane"></i></a></li>
-              <li><a data-toggle="tab" href="#sectionE"><i class="fa fa-line-chart"></i></a></li>
-            </ul>
-            <div class="tab-content">
-              <div id="sectionA" class="tab-pane fade in active">
-                <h3>Strategy</h3>
-                <p>Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui. Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth.</p>
-              </div>
-              <div id="sectionB" class="tab-pane fade">
-                <h3>Plan</h3>
-                <p>Vestibulum nec erat eu nulla rhoncus fringilla ut non neque. Vivamus nibh urna, ornare id gravida ut, mollis a magna. Aliquam porttitor condimentum nisi, eu viverra ipsum porta ut. Nam hendrerit bibendum turpis, sed molestie mi fermentum id. Aenean volutpat velit sem. Sed consequat ante in rutrum convallis. Nunc facilisis leo at faucibus adipiscing.</p>
-              </div>
-              <div id="sectionC" class="tab-pane fade">
-                <h3>Mechanism</h3>
-                <p>Vestibulum nec erat eu nulla rhoncus fringilla ut non neque. Vivamus nibh urna, ornare id gravida ut, mollis a magna. Aliquam porttitor condimentum nisi, eu viverra ipsum porta ut. Nam hendrerit bibendum turpis, sed molestie mi fermentum id. Aenean volutpat velit sem. Sed consequat ante in rutrum convallis. Nunc facilisis leo at faucibus adipiscing.</p>
-              </div>
-              <div id="sectionD" class="tab-pane fade">
-                <h3>Title</h3>
-                <p>Vestibulum nec erat eu nulla rhoncus fringilla ut non neque. Vivamus nibh urna, ornare id gravida ut, mollis a magna. Aliquam porttitor condimentum nisi, eu viverra ipsum porta ut. Nam hendrerit bibendum turpis, sed molestie mi fermentum id. Aenean volutpat velit sem. Sed consequat ante in rutrum convallis. Nunc facilisis leo at faucibus adipiscing.</p>
-              </div>
-              <div id="sectionE" class="tab-pane fade">
-                <h3>Workflow</h3>
-                <p>Vestibulum nec erat eu nulla rhoncus fringilla ut non neque. Vivamus nibh urna, ornare id gravida ut, mollis a magna. Aliquam porttitor condimentum nisi, eu viverra ipsum porta ut. Nam hendrerit bibendum turpis, sed molestie mi fermentum id. Aenean volutpat velit sem. Sed consequat ante in rutrum convallis. Nunc facilisis leo at faucibus adipiscing.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div><!-- work area end   -->
-
-
-
 <div class="getit_area">
   <div class="container">
     <div class="row">
@@ -213,7 +168,6 @@
     </div>
   </div>
 </div><!--  getit area end -->
-
 
 <div class="portfolio_area">
   <div class="container">
@@ -549,6 +503,7 @@
 
 
     </div>
+    <div class="portfolio-end"></div>
 
   </div>
 </div><!-- portfolio area end   -->
@@ -621,6 +576,49 @@
   </div>
 </div><!-- skill area end-->
 
+<div class="work_area">
+  <div class="container">
+    <div class="row">
+      <div class="work_section">
+        <h1 class="wow bounceInLeft">Functional <span>work Process</span></h1>
+        <div class="col-md-12 wow bounceInRight animated">
+          <div class="bs-example">
+            <ul class="nav nav-tabs">
+              <li class="active"><a data-toggle="tab" href="#sectionA"><i class="fa fa-lightbulb-o"></i></a></li>
+              <li><a data-toggle="tab" href="#sectionB"><i class="fa fa-compass"></i></a></li>
+              <li><a data-toggle="tab" href="#sectionC"><i class="fa fa-cogs"></i></a></li>
+              <li><a data-toggle="tab" href="#sectionD"><i class="fa fa-paper-plane"></i></a></li>
+              <li><a data-toggle="tab" href="#sectionE"><i class="fa fa-line-chart"></i></a></li>
+            </ul>
+            <div class="tab-content">
+              <div id="sectionA" class="tab-pane fade in active">
+                <h3>Strategy</h3>
+                <p>Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui. Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth.</p>
+              </div>
+              <div id="sectionB" class="tab-pane fade">
+                <h3>Plan</h3>
+                <p>Vestibulum nec erat eu nulla rhoncus fringilla ut non neque. Vivamus nibh urna, ornare id gravida ut, mollis a magna. Aliquam porttitor condimentum nisi, eu viverra ipsum porta ut. Nam hendrerit bibendum turpis, sed molestie mi fermentum id. Aenean volutpat velit sem. Sed consequat ante in rutrum convallis. Nunc facilisis leo at faucibus adipiscing.</p>
+              </div>
+              <div id="sectionC" class="tab-pane fade">
+                <h3>Mechanism</h3>
+                <p>Vestibulum nec erat eu nulla rhoncus fringilla ut non neque. Vivamus nibh urna, ornare id gravida ut, mollis a magna. Aliquam porttitor condimentum nisi, eu viverra ipsum porta ut. Nam hendrerit bibendum turpis, sed molestie mi fermentum id. Aenean volutpat velit sem. Sed consequat ante in rutrum convallis. Nunc facilisis leo at faucibus adipiscing.</p>
+              </div>
+              <div id="sectionD" class="tab-pane fade">
+                <h3>Title</h3>
+                <p>Vestibulum nec erat eu nulla rhoncus fringilla ut non neque. Vivamus nibh urna, ornare id gravida ut, mollis a magna. Aliquam porttitor condimentum nisi, eu viverra ipsum porta ut. Nam hendrerit bibendum turpis, sed molestie mi fermentum id. Aenean volutpat velit sem. Sed consequat ante in rutrum convallis. Nunc facilisis leo at faucibus adipiscing.</p>
+              </div>
+              <div id="sectionE" class="tab-pane fade">
+                <h3>Workflow</h3>
+                <p>Vestibulum nec erat eu nulla rhoncus fringilla ut non neque. Vivamus nibh urna, ornare id gravida ut, mollis a magna. Aliquam porttitor condimentum nisi, eu viverra ipsum porta ut. Nam hendrerit bibendum turpis, sed molestie mi fermentum id. Aenean volutpat velit sem. Sed consequat ante in rutrum convallis. Nunc facilisis leo at faucibus adipiscing.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div><!-- work area end   -->
+
 <div class="blog_area">
   <div class="container">
     <div class="row">
@@ -662,131 +660,8 @@
 </div><!-- blog area end   -->
 
 
-<div class="price_area">
-  <div class="container">
-    <div class="row">
-      <div class="price_section">
-        <h1>Price section</h1>
-        <div class="col-md-12">
-          <div class="pricing-table">
-            <div class="col-md-4 col-sm-4 col-xs-12 pricing-box first wow bounceInUp animated">
-              <ul>
-                <li class="plan-title">
-                  Silver
-                </li>
-                <li class="subscription-price oswald">
-                  <span class="currency oswald">$</span>
-                  <span class="price">59</span>
-                  / mon
-                </li>
-                <li class="ptop10">
-                  5 Free Websites
-                </li>
-                <li>
-                  100 Gb Storage
-                </li>
-                <li>
-                  24 / 7 Full Support
-                </li>
-                <li>
-                  Cloud Backup
-                </li>
-                <li>
-                  5 Admin Panels
-                </li>
-                <li>
-                  Free Trials
-                </li>
-                <li class="last border-none pbottom40">
-                  No Bonus Points
-                </li>
-                <li class="sing-up">
-                  <a href="#" class="animate">Sign Up</a>
-                </li>
-              </ul>
-            </div><!-- end pricing-box -->
-            <div class="col-md-4 col-sm-4 col-xs-12 pricing-box second featured wow bounceInUp animated">
-              <ul>
-                <li class="plan-title">
-                  Gold
-                </li>
-                <li class="subscription-price oswald">
-                  <span class="currency oswald">$</span>
-                  <span class="price">79</span>
-                  / mon
-                </li>
-                <li class="ptop10">
-                  20 Free Websites
-                </li>
-                <li>
-                  500 Gb Storage
-                </li>
-                <li>
-                  Full Support
-                </li>
-                <li>
-                  Cloud Backup
-                </li>
-                <li>
-                  20 Admin Panels
-                </li>
-                <li>
-                  Free Trials
-                </li>
-                <li class="last border-none pbottom40">
-                  All Bonus Points
-                </li>
-                <li class="sing-up">
-                  <a href="#" class="animate">Sing Up</a>
-                </li>
-              </ul>
-            </div><!-- end pricing-box -->
-            <div class="col-md-4 col-sm-4 col-xs-12 pricing-box last wow bounceInUp animated">
-              <ul>
-                <li class="plan-title">
-                  Diamond
-                </li>
-                <li class="subscription-price oswald">
-                  <span class="currency oswald">$</span>
-                  <span class="price">99</span>
-                  / mon
-                </li>
-                <li class="ptop10">
-                  50 Free Websites
-                </li>
-                <li>
-                  1 Tb Storage
-                </li>
-                <li>
-                  Full Support
-                </li>
-                <li>
-                  Cloud Backup
-                </li>
-                <li>
-                  50 Admin Panels
-                </li>
-                <li>
-                  Free Trials
-                </li>
-                <li class="last border-none pbottom40">
-                  All Bonus Points
-                </li>
-                <li class="sing-up">
-                  <a href="#" class="animate">Sing Up</a>
-                </li>
-              </ul>
-            </div><!-- end pricing-box -->
-          </div>
-        </div>
 
-      </div>
-    </div>
-  </div>
-</div><!-- price area end   -->
-
-
-<div class="testimonial_area">
+<!--<div class="testimonial_area">
   <div class="container">
     <div class="row">
       <div class="testimonial_section">

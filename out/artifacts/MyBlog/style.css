@@ -633,12 +633,14 @@ scroll {  0% {
 /* ===========Portfolio style===========*/
 
 .portfolio_area{
+  background-color: #f8f8f8;
   margin-top: 40px;
   margin-bottom: 40px;
 }
 
 .portfolio_section{
-
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .portfolio_section h1{
@@ -649,6 +651,12 @@ scroll {  0% {
 
 .portfolio_top{
 
+}
+
+.portfolio-end{
+    background-color: #f8f8f8;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .portfolio{
@@ -815,7 +823,7 @@ scroll {  0% {
 /*============== Skill style ==============*/
 
 .skill_area{
-  background-color: #f8f8f8;
+
 }
 
 

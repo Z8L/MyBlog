@@ -501,9 +501,7 @@
         </div>
       </div>
 
-
     </div>
-
   </div>
 </div><!-- portfolio area end   -->
 
