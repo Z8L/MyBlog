@@ -183,13 +183,11 @@
       <li><span class="filter" data-filter="app">App</span></li>
       <li><span class="filter" data-filter="card">Card</span></li>
       <li><span class="filter" data-filter="icon">Icon</span></li>
-      <li><span class="filter" data-filter="logos">Logo</span></li>
-      <li><span class="filter" data-filter="web">Web</span></li>
     </ul>
 
     <div id="portfoliolist">
 
-      <div class="portfolio logos" data-cat="logos">
+      <!--  <div class="portfolio logos" data-cat="logos">
         <div class="portfolio-wrapper">
           <img src="img/portfolios/logo/5.jpg" alt="" />
           <div class="label">
@@ -200,11 +198,11 @@
             <div class="label-bg"></div>
           </div>
         </div>
-      </div>
+      </div>   -->
 
       <div class="portfolio app" data-cat="app">
         <div class="portfolio-wrapper">
-          <img src="img/portfolios/app/1.jpg" alt="" />
+         <a href="third_blog.jsp"><img src="img/portfolios/app/1.jpg" alt="" /></a>
           <div class="label">
             <div class="label-text">
               <a class="text-title">Visual Infography</a>
@@ -215,7 +213,7 @@
         </div>
       </div>
 
-      <div class="portfolio web" data-cat="web">
+     <!-- <div class="portfolio web" data-cat="web">
         <div class="portfolio-wrapper">
           <img src="img/portfolios/web/4.jpg" alt="" />
           <div class="label">
@@ -226,11 +224,11 @@
             <div class="label-bg"></div>
           </div>
         </div>
-      </div>
+      </div>  -->
 
       <div class="portfolio card" data-cat="card">
         <div class="portfolio-wrapper">
-          <img src="img/portfolios/card/1.jpg" alt="" />
+          <a href="third_blog.jsp"><img src="img/portfolios/card/1.jpg" alt="" /></a>
           <div class="label">
             <div class="label-text">
               <a class="text-title">Typography Company</a>
@@ -280,7 +278,7 @@
         </div>
       </div>
 
-      <div class="portfolio logos" data-cat="logos">
+      <!-- <div class="portfolio logos" data-cat="logos">
         <div class="portfolio-wrapper">
           <img src="img/portfolios/logo/1.jpg" alt="" />
           <div class="label">
@@ -291,7 +289,7 @@
             <div class="label-bg"></div>
           </div>
         </div>
-      </div>
+      </div>  -->
 
       <div class="portfolio app" data-cat="app">
         <div class="portfolio-wrapper">
@@ -319,7 +317,7 @@
         </div>
       </div>
 
-      <div class="portfolio logos" data-cat="logos">
+     <!-- <div class="portfolio logos" data-cat="logos">
         <div class="portfolio-wrapper">
           <img src="img/portfolios/logo/6.jpg" alt="" />
           <div class="label">
@@ -330,9 +328,9 @@
             <div class="label-bg"></div>
           </div>
         </div>
-      </div>
+      </div>  -->
 
-      <div class="portfolio logos" data-cat="logos">
+     <!-- <div class="portfolio logos" data-cat="logos">
         <div class="portfolio-wrapper">
           <img src="img/portfolios/logo/7.jpg" alt="" />
           <div class="label">
@@ -343,7 +341,7 @@
             <div class="label-bg"></div>
           </div>
         </div>
-      </div>
+      </div>  -->
 
       <div class="portfolio icon" data-cat="icon">
         <div class="portfolio-wrapper">
@@ -358,7 +356,7 @@
         </div>
       </div>
 
-      <div class="portfolio web" data-cat="web">
+      <!--<div class="portfolio web" data-cat="web">
         <div class="portfolio-wrapper">
           <img src="img/portfolios/web/3.jpg" alt="" />
           <div class="label">
@@ -369,7 +367,7 @@
             <div class="label-bg"></div>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <div class="portfolio icon" data-cat="icon">
         <div class="portfolio-wrapper">
@@ -383,8 +381,8 @@
           </div>
         </div>
       </div>
-      <div class="copyrights">Collect from <a href="http://www.cssmoban.com/" >企业网站模板</a></div>
-      <div class="portfolio web" data-cat="web">
+      <!--<div class="copyrights">Collect from <a href="http://www.cssmoban.com/" >企业网站模板</a></div> -->
+     <!-- <div class="portfolio web" data-cat="web">
         <div class="portfolio-wrapper">
           <img src="img/portfolios/web/2.jpg" alt="" />
           <div class="label">
@@ -395,7 +393,7 @@
             <div class="label-bg"></div>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <div class="portfolio icon" data-cat="icon">
         <div class="portfolio-wrapper">
@@ -423,7 +421,7 @@
         </div>
       </div>
 
-      <div class="portfolio web" data-cat="web">
+      <!--<div class="portfolio web" data-cat="web">
         <div class="portfolio-wrapper">
           <img src="img/portfolios/web/1.jpg" alt="" />
           <div class="label">
@@ -434,9 +432,9 @@
             <div class="label-bg"></div>
           </div>
         </div>
-      </div>
+      </div>  -->
 
-      <div class="portfolio logos" data-cat="logos">
+      <!--<div class="portfolio logos" data-cat="logos">
         <div class="portfolio-wrapper">
           <img src="img/portfolios/logo/3.jpg" alt="" />
           <div class="label">
@@ -447,9 +445,9 @@
             <div class="label-bg"></div>
           </div>
         </div>
-      </div>
+      </div> -->
 
-      <div class="portfolio logos" data-cat="logos">
+      <!--<div class="portfolio logos" data-cat="logos">
         <div class="portfolio-wrapper">
           <img src="img/portfolios/logo/4.jpg" alt="" />
           <div class="label">
@@ -460,7 +458,7 @@
             <div class="label-bg"></div>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <div class="portfolio icon" data-cat="icon">
         <div class="portfolio-wrapper">
@@ -488,7 +486,7 @@
         </div>
       </div>
 
-      <div class="portfolio logos" data-cat="logos">
+      <!--<div class="portfolio logos" data-cat="logos">
         <div class="portfolio-wrapper">
           <img src="img/portfolios/logo/2.jpg" alt="" />
           <div class="label">
@@ -499,7 +497,7 @@
             <div class="label-bg"></div>
           </div>
         </div>
-      </div>
+      </div> -->
 
     </div>
   </div>
@@ -516,7 +514,7 @@
               <div class="panel-heading" role="tab" id="headingOne">
                 <h4 class="panel-title">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                    Why choose us?
+                    个人信息 Personal Info
                   </a>
                 </h4>
               </div>
@@ -530,7 +528,7 @@
               <div class="panel-heading" role="tab" id="headingTwo">
                 <h4 class="panel-title">
                   <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                    Our History
+                    教育程度 Education
                   </a>
                 </h4>
               </div>
@@ -544,7 +542,7 @@
               <div class="panel-heading" role="tab" id="headingThree">
                 <h4 class="panel-title">
                   <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                    Behind Us
+                    所获荣誉 Scholaship
                   </a>
                 </h4>
               </div>
@@ -557,12 +555,12 @@
           </div>
         </div>
         <div class="col-md-8">
-          <h2 class="wow bounceInLeft animated">These are our <span>Fantastic skills</span></h2>
+          <h2 class="wow bounceInLeft animated">自我评价 <span>Evaluation</span></h2> <!--可能是样式导致单词不可见-->
           <p class="skill_text wow bounceInLeft animated">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
             tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</p>
 
           <main>
-            <h2 id="skills wow bounceInRight animated">The Skills we have</h2>
+            <h2 id="skills wow bounceInRight animated">能力评价</h2>
             <div class="section skills">
               <div id="skillset" class="column"> </div>
             </div>
@@ -577,14 +575,14 @@
   <div class="container">
     <div class="row">
       <div class="work_section">
-        <h1 class="wow bounceInLeft">Functional <span>work Process</span></h1>
+        <h1 class="wow bounceInLeft">技术总结 <span>Technical summary</span></h1>
         <div class="col-md-12 wow bounceInRight animated">
           <div class="bs-example">
             <ul class="nav nav-tabs">
-              <li class="active"><a data-toggle="tab" href="#sectionA"><i class="fa fa-lightbulb-o"></i></a></li>
-              <li><a data-toggle="tab" href="#sectionB"><i class="fa fa-compass"></i></a></li>
-              <li><a data-toggle="tab" href="#sectionC"><i class="fa fa-cogs"></i></a></li>
-              <li><a data-toggle="tab" href="#sectionD"><i class="fa fa-paper-plane"></i></a></li>
+              <li class="active"><a data-toggle="tab" href="#sectionA"><i class="fa fa-compass"></i></a></li>
+              <li><a data-toggle="tab" href="#sectionB"><i class="fa fa-cubes"></i></a></li>
+              <li><a data-toggle="tab" href="#sectionC"><i class="fa fa-linux"></i></a></li>
+              <li><a data-toggle="tab" href="#sectionD"><i class="fa fa-link"></i></a></li>
               <li><a data-toggle="tab" href="#sectionE"><i class="fa fa-line-chart"></i></a></li>
             </ul>
             <div class="tab-content">
